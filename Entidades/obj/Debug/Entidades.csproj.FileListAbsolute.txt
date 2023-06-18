@@ -1,0 +1,17 @@
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Entidades\bin\Debug\Entidades.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Entidades\bin\Debug\Entidades.pdb
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Entidades\obj\Debug\Entidades.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Entidades\obj\Debug\Entidades.pdb
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Entidades\bin\Debug\Entidades.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Entidades\bin\Debug\Entidades.pdb
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Entidades\obj\Debug\Entidades.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Entidades\obj\Debug\Entidades.pdb
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Entidades\bin\Debug\Entidades.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Entidades\bin\Debug\Entidades.pdb
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Entidades\obj\Debug\Entidades.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Entidades\obj\Debug\Entidades.pdb
