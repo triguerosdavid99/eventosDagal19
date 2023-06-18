@@ -1,0 +1,152 @@
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\Negocio.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\Negocio.pdb
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\Datos.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\Entidades.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\MySql.Data.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\Google.Protobuf.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\System.Memory.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\System.IO.Pipelines.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\System.Buffers.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\Datos.pdb
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\Datos.dll.config
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\Entidades.pdb
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\MySql.Data.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\Google.Protobuf.pdb
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\Google.Protobuf.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\System.Memory.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\System.IO.Pipelines.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\bin\Debug\System.Buffers.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\obj\Debug\Negocio.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Eventos19\Negocio\obj\Debug\Negocio.pdb
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Negocio.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Negocio.pdb
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Datos.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Entidades.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\MySql.Data.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Google.Protobuf.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Memory.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.IO.Pipelines.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Buffers.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Datos.pdb
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Datos.dll.config
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Entidades.pdb
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\MySql.Data.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Google.Protobuf.pdb
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Google.Protobuf.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Memory.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.IO.Pipelines.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Buffers.xml
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.dll
+C:\Users\trigu\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.pdb
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Negocio.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Negocio.pdb
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Datos.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Entidades.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\MySql.Data.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Google.Protobuf.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Memory.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.IO.Pipelines.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Buffers.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Datos.pdb
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Datos.dll.config
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Entidades.pdb
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\MySql.Data.xml
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Google.Protobuf.pdb
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Google.Protobuf.xml
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Memory.xml
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.IO.Pipelines.xml
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Buffers.xml
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.dll
+C:\Users\TCP\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Negocio.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Datos.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Entidades.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\MySql.Data.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Google.Protobuf.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Memory.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Buffers.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Datos.pdb
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\MySql.Data.xml
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Google.Protobuf.pdb
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\Google.Protobuf.xml
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Memory.xml
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\bin\Debug\System.Buffers.xml
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.dll
+C:\Users\Luisa\Downloads\aplicaciones\droplox\Dropbox\tecnicas de produccion\Proyecto Final\Eventos19\Negocio\obj\Debug\Negocio.pdb
