@@ -1,0 +1,12 @@
+Integrantes: 
+	-Luis Armando Ayala Mezquita
+	-Victor Gamaliel Bueso Lopez
+	-David Ernesto Trigueros Pineda
+
+Informacion:
+	-La carpeta "Eventos 19" contiene el proyecto de visual studio, lo desarrollamos en visual studio 19.
+	-El archivo "dagal.sql" es la exportacion que hicimos de la bd, en las pruebas no dio ningun problema cuando se creo primero la bd y despues se importo el archivo a la bd ya creada, lo hicimos en mysql workbench 8.0.
+	-"Plantilla scrum agenda finalizada.xls" es lo que hemos venido trabajando de excel, esta completo.
+	-La carpeta "Instalador" contiene dos archivos que son los instaladores, el archivo "SetupDAGAL.msi" es el que 
+	 usamos para instalar, por alguna razon el otro archivo no deja pasar por la dependencia del "Crystal report runtime".
+	-El programa funciona en su totalidad, lastimosamente no habra defensa para demostrarlo pero esperamos no tenga ningun problema en la ejecucion.
